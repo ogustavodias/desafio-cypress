@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","18203","Login com sucesso.","","Tue Aug 19 21:39:55 BRT 2025","passed","Tue Aug 19 21:40:13 BRT 2025","","Automation exercise.","Automation exercise.","Login com sucesso."
+"","15850","Login com error, senha incorreta.","","Tue Aug 19 21:40:13 BRT 2025","passed","Tue Aug 19 21:40:29 BRT 2025","","Automation exercise.","Automation exercise.","Login com error, senha incorreta."
+"","25365","Fluxo completo de compra com sucesso.","","Tue Aug 19 21:40:29 BRT 2025","passed","Tue Aug 19 21:40:54 BRT 2025","","Automation exercise.","Automation exercise.","Fluxo completo de compra com sucesso."
+"","15582","Cadastro com falha, usuário já cadastrado.","","Tue Aug 19 21:39:39 BRT 2025","passed","Tue Aug 19 21:39:55 BRT 2025","","Automation exercise.","Automation exercise.","Cadastro com falha, usuário já cadastrado."
+"","30948","Cadastro com sucesso.","","Tue Aug 19 21:39:08 BRT 2025","passed","Tue Aug 19 21:39:39 BRT 2025","","Automation exercise.","Automation exercise.","Cadastro com sucesso."

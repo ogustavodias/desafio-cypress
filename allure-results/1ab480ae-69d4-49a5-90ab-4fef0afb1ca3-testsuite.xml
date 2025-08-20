@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1755650348792' stop='1755650454865'>
+    <name>Automation exercise.</name>
+    <title>Automation exercise.</title>
+    <test-cases>
+        <test-case start='1755650348792' status='passed' stop='1755650379740'>
+            <name>Cadastro com sucesso.</name>
+            <title>Cadastro com sucesso.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1755650379800' status='passed' stop='1755650395382'>
+            <name>Cadastro com falha, usuário já cadastrado.</name>
+            <title>Cadastro com falha, usuário já cadastrado.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1755650395398' status='passed' stop='1755650413601'>
+            <name>Login com sucesso.</name>
+            <title>Login com sucesso.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1755650413620' status='passed' stop='1755650429470'>
+            <name>Login com error, senha incorreta.</name>
+            <title>Login com error, senha incorreta.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1755650429500' status='passed' stop='1755650454865'>
+            <name>Fluxo completo de compra com sucesso.</name>
+            <title>Fluxo completo de compra com sucesso.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
